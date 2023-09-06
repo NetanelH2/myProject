@@ -1,0 +1,20 @@
+# Dependency directories
+node_modules/
+
+# Environment variables file (if used)
+.env
+
+# Build artifacts
+build/
+dist/
+*.log
+
+# Editor-specific files
+.vscode/
+
+# OS-generated files
+.DS_Store
+
+# Cached or compiled files
+*.pnp.js
+*.pnp.js.map
