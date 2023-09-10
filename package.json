@@ -1,0 +1,21 @@
+{
+  "name": "automation-course",
+  "version": "1.0.0",
+  "description": "",
+  "main": "HelloWorld.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NetanelH2/myProject.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NetanelH2/myProject/issues"
+  },
+  "homepage": "https://github.com/NetanelH2/myProject#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.37.1"
+  }
+}
